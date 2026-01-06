@@ -1,6 +1,6 @@
 # flip-clock
 
-一个基于 Vue 3 + @pqina/flip 的翻页时钟项目，支持时钟、倒计时、番茄钟与码表。
+一个基于 Vue 3 +[ @pqina/flip](https://github.com/pqina/flip) 的翻页时钟项目，支持时钟、倒计时、番茄钟与码表。
 
 ## 功能
 
